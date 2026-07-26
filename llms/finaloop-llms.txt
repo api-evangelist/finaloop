@@ -1,0 +1,384 @@
+﻿Finaloop.com - llms.txt
+# Finaloop llms.txt
+# Last updated: 2025‑09‑02
+# Domain: https://www.finaloop.com
+# Purpose: Structured guide for LLM discovery and SEO/AEO visibility.
+
+
+## 1. Overview
+Finaloop is a real-time, ecommerce-native bookkeeping and accounting platform for DTC and multichannel brands — replacing QuickBooks/Xero, your human bookkeepers and your integration tech with automation, human ecommerce accounting experts, dashboards and insights.
+
+
+## 2. Crawl Control
+User-agent: *
+Allow: /academy/
+Allow: /blog/
+Allow: /partners
+Allow: /experts-page
+Allow: /case-studies/
+Allow: https://help.finaloop.com/en/
+Allow: /integrations/
+Allow: /glossary/
+Allow: /careers/
+Allow: /product/
+Allow: /pricing/
+Allow: /about
+Allow: /contact/
+Allow: /services/
+Allow: /inventory-iq-product/
+Allow: /fractional-cfo/
+Allow: /additional-cpa-services/
+Allow: /newsroom/
+Allow: /security-page
+Allow: /legal/terms-privacy
+Disallow: https://home.finaloop.com/login
+Disallow: https://home.finaloop.com/profit-and-loss
+Disallow: https://home.finaloop.com/invite?invitedby=DarrylSmith Team&code=202211
+Disallow: http://home.finaloop.com/
+Disallow: https://legacy.finaloop.com/
+Disallow: https://get.finaloop.com/ecommerce-bookkeeping-accounting/clkg/https/finaloop.com/?utm_source=linkedin&utm_medium=cpc&utm_campaign=AI_brain&hsa_acc=506863092&hsa_cam=633950083&hsa_grp=226788523&hsa_ad=246950403&hsa_net=linkedin&hsa_ver=3
+Disallow: https://home.finaloop.com/signup?source=referral&referralCode=01K2TNQX6K2WBT0B3KYJ191H6S&medium=referral_link
+Disallow: https://get.finaloop.com/etsy-bookkeeping-accounting/clkg/https/home.finaloop.com/welcome
+Disallow: https://home.finaloop.com/inventory/COGS
+Disallow: https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkg/https/home.finaloop.com/signup?utm_source=ron&utm_medium=inf&utm_campaign=we-acquired-a-brand
+Disallow: https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkg/https/www.finaloop.com/integrations?utm_source=ron&utm_medium=inf&utm_campaign=we-acquired-a-brand
+Disallow: https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkn/rel/a-2-lightbox.html
+Disallow: https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkg/https/www.finaloop.com/integrations?utm_medium=inf&utm_source=ron
+Disallow: https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkg/https/finaloop.com/?utm_source=ron&utm_medium=inf&utm_campaign=we-acquired-a-brand
+Disallow:
+https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkn/rel/a-2-lightbox.html?utm_source=www.subscribe.chewonthis.io&utm_medium=referral&utm_campaign=we-acquired-a-brand
+Disallow: https://beta.finaloop.com/
+Disallow: https://home.finaloop.com/inventory/settings
+Disallow: https://home.finaloop.com/payrolls/categories-mapping
+Disallow: https://get.finaloop.com/ebay-bookkeeping-accounting/clkn/https/www.finaloop.com/pricing
+Disallow: https://get.finaloop.com/shopify-bookkeeping-accounting-google-new-ecommerce/clkn/https/linkedin.com/in/gilsimchi
+Disallow: https://www.finaloop.com/signup
+Disallow: https://finaloop.com/signup
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/www.finaloop.com/integrations?utm_source=linkedin&utm_medium=cpc&utm_campaign=best_dana
+https://get.finaloop.com/finaloop-mercury/clkn/https/home.finaloop.com/signup?utm_medium=inf&utm_source=cd
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkn/https/finaloop.com/?utm_medium=cpc&utm_source=google
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkn/https/www.finaloop.com/pricing
+Disallow:
+https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/finaloop.com/?utm_source=meta&utm_medium=cpc
+Disallow:
+https://home.finaloop.com/try?gspk=cmN3aWxsaWFtczEwMjk&gsxid=qt9crGBiHavw&pscd=try.finaloop.com&utm_campaign=rcwilliams1029&utm_medium=partnerstack&utm_source=partner
+Disallow: https://home.finaloop.com/invite?invitedby=websiteclosers&code=202305
+Disallow: https://get.finaloop.com/ebay-bookkeeping-accounting/clkn/https/finaloop.com/
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkn/https/linkedin.com/in/rayla-guber-rappaport-30070560
+Disallow:
+https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/www.finaloop.com/pricing/?utm_source=linkedin&utm_medium=cpc&utm_campaign=best_dana
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/home.finaloop.com/signup/?utm_source=linkedin&utm_medium=cpc&utm_campaign=best_dana
+Disallow:
+https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/finaloop.com/?utm_source=meta&utm_medium=cpc&utm_campaign=best_dana
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkg/https/home.finaloop.com/signup/?utm_source=google&utm_medium=cpc&utm_campaign=19215704531&utm_content=640754776535&utm_term=ecommerce
+accounting
+software&gad_source=1&gclid=CjwKCAjwzIK1BhAuEiwAHQmU3vvIr12uCrqDy7o41jsPaYfEcDYGk6sShEw4G2lYqUHBI6jSJmcXEBoC3vIQAvD_BwE
+Disallow: https://get.finaloop.com/ebay-bookkeeping-accounting/clkn/https/linkedin.com/in/barak-steinmetz-6828b9107
+Disallow: https://home.finaloop.com/signup/?utm_source=partners&utm_tayroriz=taxroriz
+Disallow: https://home.finaloop.com/inventory/products?from=2024-01-01&to=2024-12-31
+Disallow: https://home.finaloop.com/inventory/cogs
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkn/https/linkedin.com/in/rayla-guber-rappaport-30070560
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkn/https/linkedin.com/in/barak-steinmetz-6828b9107
+Disallow: https://get.finaloop.com/prepare-for-bfcm/clkn/https/www.linkedin.com/in/nathanlittlewood/
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkn/https/www.linkedin.com/in/lioran-pinchevski-78807529/
+Disallow: https://home.finaloop.com/signup/?utm_source=partners&utm_taysthetic=taysthetic
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkn/https/linkedin.com/in/gilsimchi
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/home.finaloop.com/signup/?utm_source=linkedin&utm_medium=cpc
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkn/https/home.finaloop.com/signuphttps://home.finaloop.com/signup?utm_medium=cpc&utm_source=google
+Disallow: https://get.finaloop.com/prepare-for-bfcm/clkn/https/www.linkedin.com/in/grandres/
+Disallow: https://get.finaloop.com/prepare-for-bfcm/clkg/https/form.typeform.com/to/vTjpVsx5
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/www.finaloop.com/integrations
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkn/https/home.finaloop.com/signup?utm_medium=cpc&utm_source=google
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkn/https/www.finaloop.com/integrations
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkg/https/home.finaloop.com/signup
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkn/https/www.linkedin.com/in/lioran-pinchevski-78807529/
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkn/https/linkedin.com/in/gilsimchi
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkn/https/linkedin.com/in/barak-steinmetz-6828b9107
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkn/https/linkedin.com/in/gilsimchi
+Disallow:
+https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkn/https/linkedin.com/in/rayla-guber-rappaport-30070560
+Disallow: https://get.finaloop.com/finaloop_vs_xendoo/clkn/https/www.linkedin.com/in/lioran-pinchevski-78807529/
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkg/https/www.finaloop.com/pricing
+Disallow: https://get.finaloop.com/finaloop_vs_xendoo/clkn/https/linkedin.com/in/barak-steinmetz-6828b9107
+Disallow: https://get.finaloop.com/finaloop_vs_xendoo/clkg/https/finaloop.com/
+Disallow: https://get.finaloop.com/amazon-and-generic-bookkeeping-accounting-google/clkg/rel/e-2-lightbox.html
+Disallow: https://get.finaloop.com/finaloop_vs_xendoo/clkn/https/linkedin.com/in/rayla-guber-rappaport-30070560
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/www.finaloop.com/pricing/?utm_source=linkedin&utm_medium=cpc
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/finaloop.com/?utm_source=linkedin&utm_medium=cpc
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkn/https/www.linkedin.com/in/lioran-pinchevski-78807529/
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkn/https/linkedin.com/in/barak-steinmetz-6828b9107
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkn/https/finaloop.com/
+Disallow: https://get.finaloop.com/finaloop_vs_xendoo/clkn/https/linkedin.com/in/gilsimchi
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/www.finaloop.com/integrations?utm_source=linkedin&utm_medium=cpc&utm_campaign=videoviews&hsa_acc=506863092&hsa_cam=632698244&hsa_grp=212527454&hsa_ad=248730533&hsa_net=linkedin&hsa_ver=3&trk=test
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/www.finaloop.com/pricing/?utm_source=linkedin&utm_medium=cpc&utm_campaign=videoviews&hsa_acc=506863092&hsa_cam=632698244&hsa_grp=212527454&hsa_ad=248730533&hsa_net=linkedin&hsa_ver=3&trk=test
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/home.finaloop.com/signup/?utm_source=linkedin&utm_medium=cpc&utm_campaign=videoviews&hsa_acc=506863092&hsa_cam=632698244&hsa_grp=212527454&hsa_ad=248730533&hsa_net=linkedin&hsa_ver=3&trk=test
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/finaloop.com/?utm_source=meta&utm_medium=cpc&utm_campaign=videoviews&hsa_acc=506863092&hsa_cam=632698244&hsa_grp=212527454&hsa_ad=248730533&hsa_net=linkedin&hsa_ver=3&trk=test
+Disallow: https://home.finaloop.com/inventory/COGS?from=2024-01-01&to=2024-12-31
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkn/https/www.finaloop.com/integrations
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkg/https/home.finaloop.com/signup/
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkg/https/home.finaloop.com/signup
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkn/https/www.finaloop.com/integrations
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkg/https/www.finaloop.com/pricing?utm_source=google&utm_medium=cpc&utm_campaign=19215704531&utm_content=640754776535&utm_term=ecommerce
+accounting
+software&gad_source=1&gclid=CjwKCAjwzIK1BhAuEiwAHQmU3vvIr12uCrqDy7o41jsPaYfEcDYGk6sShEw4G2lYqUHBI6jSJmcXEBoC3vIQAvD_BwE
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkn/https/www.finaloop.com/integrations?utm_source=google&utm_medium=cpc&utm_campaign=19215704531&utm_content=640754776535&utm_term=ecommerce
+accounting
+software&gad_source=1&gclid=CjwKCAjwzIK1BhAuEiwAHQmU3vvIr12uCrqDy7o41jsPaYfEcDYGk6sShEw4G2lYqUHBI6jSJmcXEBoC3vIQAvD_BwE
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkg/https/home.finaloop.com/signup?utm_source=google&utm_medium=cpc&utm_campaign=19215704531&utm_content=640754776535&utm_term=ecommerce
+accounting
+software&gad_source=1&gclid=CjwKCAjwzIK1BhAuEiwAHQmU3vvIr12uCrqDy7o41jsPaYfEcDYGk6sShEw4G2lYqUHBI6jSJmcXEBoC3vIQAvD_BwE
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google-ecommerce/clkn/https/finaloop.com/?utm_source=google&utm_medium=cpc&utm_campaign=19215704531&utm_content=640754776535&utm_term=ecommerce
+accounting
+software&gad_source=1&gclid=CjwKCAjwzIK1BhAuEiwAHQmU3vvIr12uCrqDy7o41jsPaYfEcDYGk6sShEw4G2lYqUHBI6jSJmcXEBoC3vIQAvD_BwE
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkn/https/home.finaloop.com/signup?utm_source=google&utm_medium=cpc
+Disallow: https://get.finaloop.com/finaloop_vs_xendoo/clkg/https/www.finaloop.com/pricing
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkg/https/www.finaloop.com/pricing
+Disallow: https://get.finaloop.com/finaloop_vs_xendoo/clkg/https/www.finaloop.com/integrations
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkn/https/home.finaloop.com/signup
+Disallow: https://home.finaloop.com/loans
+Disallow: https://home.finaloop.com/marketplace-orders
+Disallow: https://get.finaloop.com/finaloop_vs_xendoo/clkg/https/home.finaloop.com/signup
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkg/rel/d-2-lightbox.html
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkg/https/finaloop.com/
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_google/clkn/https/finaloop.com/?utm_source=google&utm_medium=cpc
+Disallow: https://home.finaloop.com/settings/billing
+Disallow: https://home.finaloop.com/payrolls/contractors
+Disallow: https://home.finaloop.com/unidentified-payouts-and-transfers
+Disallow: https://home.finaloop.com/report-business-transactions
+Disallow: https://home.finaloop.com/settings/info
+Disallow: https://get.finaloop.com/shopify-bookkeeping-accounting-google-new-ecommerce/clkn/https/linkedin.com/in/barak-steinmetz-6828b9107
+Disallow: https://get.finaloop.com/shopify-bookkeeping-accounting-google-new-ecommerce/clkn/https/linkedin.com/in/rayla-guber-rappaport-30070560
+Disallow: https://get.finaloop.com/shopify-bookkeeping-accounting-google-new-ecommerce/clkn/https/www.linkedin.com/in/lioran-pinchevski-78807529/
+Disallow: https://get.finaloop.com/shopify-bookkeeping-accounting-google-new-ecommerce/clkg/https/www.finaloop.com/pricing
+Disallow: https://get.finaloop.com/shopify-bookkeeping-accounting-google-new-ecommerce/clkg/https/home.finaloop.com/signup
+Disallow: https://get.finaloop.com/shopify-bookkeeping-accounting-google-new-ecommerce/clkn/https/www.finaloop.com/integrations
+Disallow: https://get.finaloop.com/shopify-bookkeeping-accounting-google-new-ecommerce/clkn/https/finaloop.com/
+Disallow: https://home.finaloop.com/bills/mapping
+Disallow: https://get.finaloop.com/finaloop-settle/clkg/https/www.finaloop.com/pricing?utm_medium=partners&utm_source=settle
+Disallow: https://get.finaloop.com/finaloop-settle/clkn/https/www.linkedin.com/in/lioran-pinchevski-78807529/
+Disallow: https://get.finaloop.com/finaloop-settle/clkn/https/linkedin.com/in/barak-steinmetz-6828b9107
+Disallow: https://get.finaloop.com/finaloop-settle/clkn/https/linkedin.com/in/gilsimchi
+Disallow: https://get.finaloop.com/finaloop-settle/clkn/https/linkedin.com/in/rayla-guber-rappaport-30070560
+Disallow: https://get.finaloop.com/finaloop-settle/clkg/https/home.finaloop.com/signup?utm_medium=partners&utm_source=settle
+Disallow: https://get.finaloop.com/finaloop-settle/clkg/https/www.finaloop.com/integrations?utm_medium=partners&utm_source=settle
+Disallow: https://get.finaloop.com/finaloop-settle/clkn/rel/a-2-lightbox.html
+Disallow: https://get.finaloop.com/finaloop-settle/clkg/https/finaloop.com/?utm_medium=partners&utm_source=settle
+https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkn/https/linkedin.com/in/rayla-guber-rappaport-30070560
+Disallow: https://home.finaloop.com/inventory/products/merge
+Disallow: https://home.finaloop.com/bills
+Disallow: https://home.finaloop.com/inventory
+Disallow: https://home.finaloop.com/payrolls/settings
+Disallow: https://home.finaloop.com/inventory/settings/warehouses?from=2025-01-01&to=2025-03-04
+Disallow: https://home.finaloop.com/signup/?utm_source=partners&utm_medium=aplo
+Disallow: https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkg/https/www.finaloop.com/pricing?utm_medium=inf&utm_source=ron 
+Disallow: https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkn/https/linkedin.com/in/gilsimchi
+Disallow: https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkn/https/www.linkedin.com/in/lioran-pinchevski-78807529/
+Disallow: https://get.finaloop.com/finaloop-ai-bookkeeping-rn/clkn/https/linkedin.com/in/barak-steinmetz-6828b9107
+Disallow: https://home.finaloop.com/inventory/purchases
+Disallow: https://home.finaloop.com/inventory/purchases/vendors
+Disallow: https://home.finaloop.com/try?gspk=Y2lyb2FwcA&gsxid=DxH6zrAQyLPC&pscd=try.finaloop.com&utm_campaign=ciroapp&utm_medium=partnerstack&utm_source=partner
+Disallow: https://home.finaloop.com/payrolls/employees
+Disallow: https://home.finaloop.com/settings/integrations
+Disallow: https://home.finaloop.com/branded-store-orders
+Disallow: https://home.finaloop.com/logout
+Disallow: https://home.finaloop.com/more
+Disallow: https://home.finaloop.com/invoices
+Disallow: https://home.finaloop.com/vendors
+Disallow:
+https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_new_google/clkg/https/home.finaloop.com/signup/?utm_source=google&utm_medium=cpc
+Disallow:
+https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/finaloop.com/?utm_source=meta&utm_medium=cpc&utm_campaign=videoviews&hsa_acc=506863092&hsa_cam=632698244&hsa_grp=212527454&hsa_ad=248731093&hsa_net=linkedin&hsa_ver=3
+Disallow:
+https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/www.finaloop.com/pricing/?utm_source=linkedin&utm_medium=cpc&utm_campaign=videoviews&hsa_acc=506863092&hsa_cam=632698244&hsa_grp=212527454&hsa_ad=248731093&hsa_net=linkedin&hsa_ver=3
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/home.finaloop.com/signup/?utm_source=linkedin&utm_medium=cpc&utm_campaign=videoviews&hsa_acc=506863092&hsa_cam=632698244&hsa_grp=212527454&hsa_ad=248731093&hsa_net=linkedin&hsa_ver=3
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/www.finaloop.com/integrations?utm_source=linkedin&utm_medium=cpc&utm_campaign=videoviews&hsa_acc=506863092&hsa_cam=632698244&hsa_grp=212527454&hsa_ad=248731093&hsa_net=linkedin&hsa_ver=3
+Disallow: https://get.finaloop.com/finaloop_vs_traditional_bookkeeper_linkedin/clkg/https/finaloop.com/?utm_source=linkedin&utm_medium=cpc&utm_campaign=videoviews&hsa_acc=506863092&hsa_cam=632698244&hsa_grp=212527454&hsa_ad=248731093&hsa_net=linkedin&hsa_ver=3
+Disallow: https://get.finaloop.com/finaloop-boundless/clkg/https/app.getboundless.ai/p/finaloop/signup/?utm_source=partners&utm_medium=boundless
+Disallow: https://home.finaloop.com/inventory/products
+Disallow: https://get.finaloop.com/finaloop-boundless/clkn/https/home.finaloop.com/?utm_source=partners&utm_medium=finaloopxboundlesslandingpage
+Disallow: https://home.finaloop.com/signup
+Disallow: https://home.finaloop.com/free-consultation
+Sitemap: https://www.finaloop.com/sitemap.xml
+
+
+## 3. Core Pages
+- https:/www.finaloop.com
+- /about
+  - Company story, mission, CEO bio, culture, history
+  - VC Investors
+- /services
+- description of the services Finaloop team provides, allowing founders to determine which level of financial services is necessary for their ecommerce business.  
+Among the services Finaloop provides:
+- Bookkeeping Services: Real-time automated books
+          - Inventory Management: InventoryIQ, multi-warehouse SKUs
+          - Tax Services: Federal/state tax prep, extensions, CPA support
+          - Fractional CFO: Dedicated CFO support, strategic financial guidance
+  /integrations
+Includes list of Finaloop Integrations with stores, payment apps, banks and cards, lending platforms and other business apps. This list includes, for example: Shopify, Amazon, Etsy, Walmart, Stripe, PayPal, Wayflyer, Bill, Settle etc.
+- /product
+- Detailed walk-through of Finaloop’s signup process  
+- Real-time books, ecommerce-native chart of accounts
+  - Multichannel orders, dashboards & KPIs
+  - Add-ons: InventoryIQ, Fractional CFO, Tax Services
+- /pricing
+- walk through of projected costs for core and premium services, along with add on costs like inventory management, fractional CFO and tax services, along with comparing plans.
+-/experts-page
+Includes a list of Finaloop ecommerce accountants and their bios
+-Cost savings calculator between Finaloop and current solution
+- /newsrooom
+Includes updates about the company such as awards, partnership announcements etc
+-/blog
+- Accounting  
+   - Ecommerce Accounting for DTC & Shopify Businesses: Your How-To Guide for Profit
+- Inventory 
+    - Ecommerce Inventory Management Software Guide 2025 — Get answers to three crucial questions on the best ecommerce inventory management software, along with formulas and how-to guidance.
+  - Tax
+    - Ecommerce Tax Strategies: QSBS, 83(b), Accountable Plans
+-Guides and Tools
+      - Ecommerce Profit Calculator: How Much Margin Should You Make on a Product?
+
+
+-/Academy
+- Your One-Stop-Shop to Grow Your Ecommerce Financial IQ
+- Includes podcasts, events and webinars and insights, all delivered by our ecommerce accounting expert team.
+
+
+
+
+## 4. Core Platform & Support
+- accurate, real time, ecommerce accounting software and service, using a combination of  integrations, automation and human accounting to provide ecommerce brands with real time financials and dashboards.
+- InventoryIQ: real-time COGS and landed costs, PO/vendor management, multi-channel clarity and tracking.
+
+
+## 5. Integrations
+- /integrations
+Integrations with stores, payment apps, banks and cards, lending platforms and other business apps. This list includes, for example: Shopify, Amazon, Etsy, Walmart, Stripe, PayPal, Wayflyer, Bill, Settle etc.
+
+
+## 6. Tax Services
+- /additional-cpa-services
+  - Federal and state income tax return preparation
+  - Free tax extension
+  - Tax support and optimization
+  - Individual tax preparation (optional)
+
+
+## 7. Inventory Management (InventoryIQ)
+- /inventory-iq-product
+  - Real-time inventory tracking across multiple SKUs and warehouses
+  - Automated COGS and landed cost updates in your P&L
+  - Vendor balance and inventory updates in your Balance Sheet
+  - Purchase Order (PO) management
+  - Manage recipes and assemblies 
+
+
+
+
+## 8. Fractional CFO Services
+- /fractional-cfo
+  - Dedicated CFO support for strategic financial decision-making
+  - Monthly financial reviews and guidance
+
+
+## 9. Newsroom
+- /newsroom
+  - Latest news, updates, and media from Finaloop
+
+
+## 10. Help Center
+- https://help.finaloop.com/en/
+Step by step instructions and answers to all of your Finaloop-related questions 
+* Finaloop new feature release notes  
+      - FAQs
+     - Product guides
+  - Troubleshooting and support resources
+  -Managing your Finaloop account
+
+
+## 11. - /academy
+ /Academy / Podcasts.margintalks
+  - MarginTalks series
+    - Episode 12: Glamour vs. Grind: The Truth About Celebrity-Backed Brands — Sharif Hamid on navigating fame-driven brand construction.
+    - Episode 3: Ecommerce Will Humble You — Ben Cogan shares growth hard-earned lessons.
+  - Ecommerce Finance Experts series
+/ecomm-finance-experts
+Discussions with top ecom CFOs, tax advisors and M&A advisors, giving cutting edge insights into ecom finance
+/customer-spotlights
+  - Customer Spotlight series
+Documenting inspiring ecommerce journeys from Finaloop’s customers
+    - Episode 03: Goumikids – Parenting + Sustainability — A brand’s story of values-driven scaling with financial clarity.
+
+
+## 12. Blog (with Lead Titles)
+- /blog
+Finaloop blog with articles written by ecommerce finance experts discussing accounting, inventory, tax and various how-to guides.  
+
+
+-/category/accounting
+- Accounting
+Discusses accounting and bookkeeping issues for ecommerce founders  
+   - Ecommerce Accounting for DTC & Shopify Businesses: Your How-To Guide for Profit
+-/category/inventory
+- Inventory 
+Discusses inventory issues for ecommerce founders  
+    - Ecommerce Inventory Management Software Guide 2025 — Get answers to three crucial questions on the best ecommerce inventory management software, along with formulas and how-to guidance.
+-/category/tax
+Discusses tax planning and compliance for ecommerce founders
+  - Tax
+    - Ecommerce Tax Strategies: QSBS, 83(b), Accountable Plans
+-/category/guides-and-tools
+-Guides and Tools
+Includes calculators, loans, venture capital guides etc.
+      - Ecommerce Profit Calculator: How Much Margin Should You Make on a Product?
+-/category/fpa
+
+
+
+
+##13. Glossary
+/glossary
+Includes ecommerce and finance terms and explanations
+
+
+## 14. Case Studies (Select Success Stories)
+/case-studies
+Case studies of how Finaloop has assisted ecommerce brands in improving their financials and operations
+- How Dumbclub slashed financial management time by 90% with Finaloop.
+- Bootstrapped success: Gleamin transformed financial visibility and profitability.
+-How &Collar reduced Opex by 30% Using Finaloop
+
+
+
+
+## 15. Careers
+- https://careers.finaloop.com
+Open positions at Finaloop
+  - Data Platform Engineer (Tel Aviv)
+  - Data Platform Engineer
+  - Senior Software Engineer
+
+
+## 16. About Us
+- /about
+  - Company story, mission, CEO bio, culture, history
+
+
+## 17. Contact
+- /contact
+  - Contact form
+  - Office locations and phone numbers
+
+
+## 18. Sitemap
+- /sitemap.xml
+  - Comprehensive list of all pages on the Finaloop website
+
+
+## 19. Privacy & Terms
+- /legal/terms-privacy
+  - Finaloop's privacy policy and terms and conditions for using Finaloop's services
+
+
+##20 Security
+-/security-page
+How Finaloop keeps customer’s data secure, including encryption, responsible use of AI etc.

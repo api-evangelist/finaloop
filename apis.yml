@@ -1,8 +1,16 @@
 aid: finaloop
 name: Finaloop
-description: Finaloop is a company surfaced as a portfolio company of accel, lightspeed-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Finaloop is a real-time, ecommerce-native bookkeeping and accounting platform for
+  direct-to-consumer (DTC) and multichannel brands. It replaces QuickBooks/Xero, human
+  bookkeepers, and integration tooling with automation plus a team of ecommerce accounting
+  experts, delivering always-current financials. Finaloop continuously syncs sales, returns,
+  fees, reimbursements, inventory movements, COGS, and banking across 60+ ecommerce,
+  marketplace, payment, banking, lending, and 3PL integrations (Shopify, Amazon, TikTok Shop,
+  Walmart, PayPal, Stripe, Chase, ShipBob, and more) to produce real-time P&L, balance sheet,
+  and cash-flow statements, inventory analytics, and tax services. Finaloop exposes no public
+  developer API; its APIs are internal connectors to source platforms, so this profile is
+  identity- and posture-focused rather than spec-bearing.
 url: https://raw.githubusercontent.com/api-evangelist/finaloop/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +19,32 @@ x-backed-by:
 - lightspeed-venture-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/633534248ff88b82a9d4bbb1/6374d36ed341423dd86154d2_Frame%2034194.min.jpg
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Accounting
+- Bookkeeping
+- Ecommerce
+- Finance
+- Inventory
+- Analytics
+- Tax
+- Financial Operations
+- DTC
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +54,28 @@ maintainers:
 common:
 - type: Website
   url: https://www.finaloop.com/
+- type: Support
+  url: https://help.finaloop.com/en/
+- type: Pricing
+  url: https://www.finaloop.com/pricing
+- type: Blog
+  url: https://www.finaloop.com/blog
+- type: SignUp
+  url: https://home.finaloop.com/signup
+- type: Login
+  url: https://home.finaloop.com/login
+- type: TermsOfService
+  url: https://www.finaloop.com/legal/terms-privacy
+- type: PrivacyPolicy
+  url: https://www.finaloop.com/legal/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/finaloop
+- type: LLMsTxt
+  url: llms/finaloop-llms.txt
+- type: DomainSecurity
+  url: security/finaloop-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
