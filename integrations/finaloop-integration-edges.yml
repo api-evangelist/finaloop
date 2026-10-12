@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/finaloop/integrations
+- https://n8n.io/integrations/finaloop/
+- https://composio.dev/toolkits/finaloop
+- https://monid.ai/tools/finaloop
+checked:
+- https://composio.dev/toolkits/finaloop
+- https://monid.ai/tools/finaloop
+- https://n8n.io/integrations/finaloop/
+- https://zapier.com/apps/finaloop/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
